@@ -12,7 +12,9 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4fael122&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+  ##
  
 <div>
   <a href="https://instagram.com/rafael_12233" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
